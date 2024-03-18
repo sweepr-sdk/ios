@@ -10,7 +10,7 @@ This repository contains the metadata to add the latest SDK as a dependency via 
 1. Open `Project` settings
 1. Navigate to `Package Dependencies` tab
 1. Select [+] button to add a new package dependency
-1. Specify URL for SweeprMobile https://github.com/sweepr-sdk/mobile-spm
+1. Specify URL for SweeprMobile https://github.com/sweepr-sdk/ios
 1. Make sure to be on the latest.
 
 ----
