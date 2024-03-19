@@ -1,7 +1,9 @@
 # Sweepr Mobile SDK
 
 `SweeprMobile` is a framework to embed personalized consumer care into existing products.
-This repository contains the metadata to add the latest SDK as a dependency via Swift Project Manager.
+This repository contains the metadata to add the latest SDK as a dependency via Swift Package Manager.
+
+For more, please visit our [website](https://sweepr.com/).
 
 ## Installation
 
@@ -14,4 +16,4 @@ This repository contains the metadata to add the latest SDK as a dependency via 
 1. Make sure to be on the latest.
 
 ----
-Sweepr Technologies Ltd. (2024)
+Sweepr Technologies Limited (2024)
